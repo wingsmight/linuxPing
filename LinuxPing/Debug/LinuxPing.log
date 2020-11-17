@@ -1,0 +1,3 @@
+﻿  LinuxPing1.cpp
+D:\VsProj\LinuxPing\LinuxPing\LinuxPing\LinuxPing1.cpp(135,13): warning C4101: 'nRet': unreferenced local variable
+  LinuxPing.vcxproj -> D:\VsProj\LinuxPing\LinuxPing\Debug\LinuxPing.exe
