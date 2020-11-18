@@ -18,8 +18,5 @@
     <ClCompile Include="LinuxPing.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LinuxPing1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
